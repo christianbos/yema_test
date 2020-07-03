@@ -1,0 +1,9 @@
+asgiref==3.2.10
+Django==3.0.7
+pudb==2019.2
+Pygments==2.6.1
+python-decouple==3.3
+pytz==2020.1
+sqlparse==0.3.1
+Unipath==1.1
+urwid==2.1.0
